@@ -1,0 +1,30 @@
+{
+  "activeAccounts": [
+    {
+      "address": "0xDE1bfCb0F36366627E83EEa46023a98F65f1bAC8",
+      "coin": 60,
+      "derivationPath": "m/44'/60'/0'/0/0",
+      "publicKey": "04e7684b162236c40a08853b1a61f5fe7e1aedfabab19f7e7c73e0eeeaafd2d12b29b5589ad7ddedfc1f69a111169d9601e1c123c78364ff0e4293b28a7815ffcf"
+    }
+  ],
+  "crypto": {
+    "cipher": "aes-128-ctr",
+    "cipherparams": {
+      "iv": "f5ed310e5811b5c83d007359eee66c1b"
+    },
+    "ciphertext": "61443a6e84d6a2c2e0b9dc7f606a9c466c37d264b85f6cb64126ed19eae60cc4af07cf1c2c6c93492e4104a8e907f45aad3456b78f634563d7e7364c16cef90406eb4b69361c47a1c54e873f",
+    "kdf": "scrypt",
+    "kdfparams": {
+      "dklen": 32,
+      "n": 16384,
+      "p": 4,
+      "r": 8,
+      "salt": ""
+    },
+    "mac": "3843c203a3d283a9023398cb02748a0371eabd236012581fcab40b1d074bd34f"
+  },
+  "id": "14ce5155-f357-4840-8d10-1911e3d2e0ac",
+  "name": "TrustWalletBackup",
+  "type": "mnemonic",
+  "version": 3
+}
